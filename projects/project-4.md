@@ -2,16 +2,15 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: test
-permalink: projects/test
+title: PPI UPM Online Voting
+permalink: projects/ppiupm_onlinevote
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - HTML/CSS
+  - PHP
+  - MySQL
+summary: Developed an Online Secured Voting System using PHP with MySql Database.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
