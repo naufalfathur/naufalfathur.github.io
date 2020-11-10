@@ -7,15 +7,15 @@
 
 // Customize the background color
 body {
-  background: linear-gradient(to bottom right, DARKSLATEGRAY, BLACK);
+  background: linear-gradient(to bottom right, ORANGERED, TOMATO);
 }
 
 // Customize the menubar color
 .ui.menu {
-  background: lightskyblue;
+  background: TOMATO;
 }
 
 // Customize the home page icon colors
 .icon-color {
-  color: darken(lightsteelblue, 20%);
+  color: darken(TOMATO, 20%);
 }
