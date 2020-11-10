@@ -101,9 +101,9 @@
       "summary": "Developed an Online Voting System named MyVote using Laravel Framework with MySql Database",
     }
   ],
-  "Volunteers": [
+  "volunteer": [
     {
-      "name": "Overseas Indonesian Student Association Alliance (OISAA)",
+      "organization": "Overseas Indonesian Student Association Alliance (OISAA)",
       "position": "Member of Media & Communication Division",
       "startDate": "2019",
       "endDate": "2020",
