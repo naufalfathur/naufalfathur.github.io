@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: ServiceMate - Android App
+image: images/vacay-square.png
+title: ServiceMate - Android App
 permalink: projects/servicemate
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
