@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: OISAA Election Counter System
+permalink: projects/oisaa_election
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+summary: Developed an Election Counter system using Java.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
