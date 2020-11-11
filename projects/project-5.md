@@ -13,10 +13,14 @@ labels:
 summary: Developed a Mobile Application Electronic Service Appointment Manager.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui image" src="{{ site.baseurl }}/images/servicemate0.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Car health is crucial during these COVID-19 phases, where we rarely use cars because of restricted movement orders that make car engines rarely used which will cause damage to the car. at a time like this, to service a car will have a very long queue (because the worker and the customer will be limited) and ineffective. ServiceMate is an application to book a car service that aims to provide the effectiveness of customers in servicing their cars, without the need to queue at the car dealer service.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+<img class="ui image" src="{{ site.baseurl }}/images/servicemate1.png">
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This project is for Mobile Application Course in my University and part of the learning process only, no database connected in this app.
+
+For this project, I was learning on android application development using Android Studio and Java. I started by programming the basics, such as creating Layout, coding the program, designing the UI, etc. I was happy because I manage to learnt the basic of android development quickly with the help of internet. From there, I then programmed the app to be able to fulfil all the requirements and features. Then, completed successfully and achieved satisfactory results during the demo.
+
+<img class="ui image" src="{{ site.baseurl }}/images/servicemate2.png">
