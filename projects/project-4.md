@@ -13,7 +13,9 @@ labels:
 summary: Developed an Online Secured Voting System using PHP with MySql Database.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui image" src="{{ site.baseurl }}/images/ppi1.png">
+<img class="ui image" src="{{ site.baseurl }}/images/ppi2.png">
+<img class="ui image" src="{{ site.baseurl }}/images/ppi3.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
