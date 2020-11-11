@@ -11,11 +11,15 @@ labels:
 summary: Developed an Election Counter system using Java.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/oisaa1.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
-To give you a flavor of the game, here is an excerpt from one run:
+Was in Johor, Malaysia, Volunteering as a Deputy Director of Media and Information Division of International Symposium 19 by Overseas Indonesian Student Association Alliance (OISAA). the event lasts for 5 days, and on the third day, when the main event is the International Congress, there will be elections to elect the chairman of the Overseas Indonesian Student Association Alliance for the next period.
+
+Because there was no system was prepared to take care of the election process professionally, my friend and I finally made an election counting application for the election process. With a short planning time, we decided to build a Java-based desktop application.
+
+<img class="ui image" src="{{ site.baseurl }}/images/oisaa2.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/oisaa3.png">
 
 <hr>
 
