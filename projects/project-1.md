@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/mpre.png
 title: MyVote with MIMOS
 permalink: projects/myvotemimos
 # All dates must be YYYY-MM-DD format!
