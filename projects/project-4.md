@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/ppre.png
 title: PPI UPM Online Voting
 permalink: projects/ppiupm_onlinevote
 # All dates must be YYYY-MM-DD format!
