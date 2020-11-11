@@ -5,7 +5,7 @@ image: images/micromouse.jpg
 title: MyVote with MIMOS
 permalink: projects/myvotemimos
 # All dates must be YYYY-MM-DD format!
-date: 2020
+date: 2020-03-10
 labels:
   - Laravel
   - html/css
