@@ -26,6 +26,10 @@ This Project is a Flutter based project, so that the output can be used on both 
 
 This will be my first flutter project and using NoSQL Database as well as firestore database. 
 
-below are the Designing phase of MealLy
 
+
+
+
+
+below are the Designing phase of MealLy
 <img class="ui image" src="{{ site.baseurl }}/images/meally.JPG">
