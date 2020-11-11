@@ -20,5 +20,3 @@ Because there was no system was prepared to take care of the election process pr
 
 <img class="ui image" src="{{ site.baseurl }}/images/oisaa1.jpg">
 <img class="ui image" src="{{ site.baseurl }}/images/oisaa2.jpg">
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
