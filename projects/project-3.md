@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/opre.png
 title: OISAA Election Counter System
 permalink: projects/oisaa_election
 # All dates must be YYYY-MM-DD format!
