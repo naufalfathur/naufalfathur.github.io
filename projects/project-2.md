@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/mupre.png
 title: Multiartha Online Report System
 permalink: projects/multiarthaors
 # All dates must be YYYY-MM-DD format!
