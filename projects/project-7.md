@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Frame10.png
+image: images/Frame11.png
 title: Whats in My Fridge ? 
 permalink: projects/whatsinmyfridge
 # All dates must be YYYY-MM-DD format!
