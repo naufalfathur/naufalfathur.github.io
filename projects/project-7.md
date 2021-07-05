@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <a href="https://ibb.co/v3YwTY1"><img src="https://i.ibb.co/c6LgZLJ/Frame-10.png" alt="Frame-10" border="0"></a>
+image: images/Frame10.png
 title: Whats in My Fridge ? 
 permalink: projects/whatsinmyfridge
 # All dates must be YYYY-MM-DD format!
