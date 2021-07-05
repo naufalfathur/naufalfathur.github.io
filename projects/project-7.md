@@ -12,6 +12,7 @@ labels:
   - Firebase
   - Firestore
 summary: Fridge and Groceriee Organizer, Fridge Sharer and Shopping notes
+<a href="https://ibb.co/v3YwTY1"><img src="https://i.ibb.co/c6LgZLJ/Frame-10.png" alt="Frame-10" border="0"></a>
 ---
 Organize your fridge! You can keep track of what you have in stock for your groceries in a simple and fun way! You can also create a shopping list once you are out of stock! Managing your groceries shopping will be easier as you can share your fridge with your friends and families.
 
